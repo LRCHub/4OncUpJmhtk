@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Room For You",
+  "base_artist": "grentperez & Lyn Lapid",
+  "createdAt": "2025-12-30T02:12:37.986253Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Will Make Room for You",
+      "artist": "Kaitlyn Aurelia Smith",
+      "has_synced": false,
+      "path": "select/01_I_Will_Make_Room_for_You_Kaitlyn_Aurelia_Smith.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Room for You",
+      "artist": "The Knocks",
+      "has_synced": true,
+      "path": "select/02_Room_for_You_The_Knocks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Room for You (Solo Version)",
+      "artist": "CHEEZE",
+      "has_synced": false,
+      "path": "select/03_Room_for_You_(Solo_Version)_CHEEZE.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Room for You - Solo Version",
+      "artist": "CHEEZE",
+      "has_synced": false,
+      "path": "select/04_Room_for_You_-_Solo_Version_CHEEZE.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Room for You (Feat. 10CM)",
+      "artist": "CHEEZE feat. 10cm",
+      "has_synced": true,
+      "path": "select/05_Room_for_You_(Feat._10CM)_CHEEZE_feat._10cm.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Room for You Feat. 10CM",
+      "artist": "CHEEZE",
+      "has_synced": true,
+      "path": "select/06_Room_for_You_Feat._10CM_CHEEZE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "room for you",
+      "artist": "sad alex feat. Caleb Hearn",
+      "has_synced": true,
+      "path": "select/07_room_for_you_sad_alex_feat._Caleb_Hearn.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "room for you",
+      "artist": "Sad Alex, Caleb Hearn",
+      "has_synced": true,
+      "path": "select/08_room_for_you_Sad_Alex,_Caleb_Hearn.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Room for You",
+      "artist": "Eric Chou",
+      "has_synced": true,
+      "path": "select/09_Room_for_You_Eric_Chou.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Will Make Room for You",
+      "artist": "Smith, Kaitlyn Aurelia",
+      "has_synced": false,
+      "path": "select/10_I_Will_Make_Room_for_You_Smith,_Kaitlyn_Aurelia.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Room for You",
+      "artist": "CHEEZE",
+      "has_synced": false,
+      "path": "select/11_Room_for_You_CHEEZE.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Room for You",
+      "artist": "Eric Bibb",
+      "has_synced": true,
+      "path": "select/12_A_Room_for_You_Eric_Bibb.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "room for you",
+      "artist": "sad alex",
+      "has_synced": false,
+      "path": "select/13_room_for_you_sad_alex.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Room For You",
+      "artist": "grentperez",
+      "has_synced": true,
+      "path": "select/14_Room_For_You_grentperez.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Room For You",
+      "artist": "Grentperez, Lyn Lapid",
+      "has_synced": true,
+      "path": "select/15_Room_For_You_Grentperez,_Lyn_Lapid.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Room for You",
+      "artist": "OneRepublic",
+      "has_synced": false,
+      "path": "select/16_Room_for_You_OneRepublic.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Room For You",
+      "artist": "Lyn Lapid",
+      "has_synced": true,
+      "path": "select/17_Room_For_You_Lyn_Lapid.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Room For You (Official Audio)",
+      "artist": "OneRepublic",
+      "has_synced": false,
+      "path": "select/18_Room_For_You_(Official_Audio)_OneRepublic.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Room For You",
+      "artist": "grentperez & Lyn Lapid",
+      "has_synced": false,
+      "path": "select/pl_01_Room_For_You_grentperez_&_Lyn_Lapid.txt"
+    }
+  ]
+}
